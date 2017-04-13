@@ -1,11 +1,11 @@
 # utilities
-Everything from introductions, code for my students, connectors, to rather tricky helper scripts
+Everything from introductions, code for my students, connectors, to rather tricky helper scripts.
 
 This is my repository for all the scripts I use but do not consider my main focus. They range from little timers and loggers you can add to you regular scripts, Python tutorials, SQL selects, to database connectors, and system integration tools. Here you will find also introductions to Python, Numpy, Theano, TensorFlow, etc.
 
 If you need help on how to run files when you download them, you can find more detailed instructions below:
 
-# HOW to open .py and .ipynb files
+# How to open .py and .ipynb files
 
 You need to get Anaconda first from https://www.continuum.io/downloads. I usually use Python 3.x, but I do have some codes that are Python 2.7. In any case, all of the introduction codes and all the IPython notebooks are Python 3.x, so choose that version of Anaconda when installing. Later on you will get the 2.7, but by that time you will be comfortable enough to be able to do it yourself. 
 
